@@ -5,11 +5,9 @@
     "architecture": {
         "64bit": {
             "url": "https://getquicker.net/download/item/fast_x64#.msi",
-            "hash": "442ee5637b4a519714148e27fc4059d17e11e17254c2180a5b1f2ea7cf754392"
         },
         "32bit": {
             "url": "https://getquicker.net/download/item/fast_x86#.msi",
-            "hash": "eca363c79faff49e5cb099b0e99d216b38ac6dfc68ff85863fab9cf73d8d51d7"
 					
         }
     },
