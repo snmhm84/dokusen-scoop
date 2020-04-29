@@ -9,7 +9,8 @@
         },
         "32bit": {
             "url": "https://getquicker.net/download/item/fast_x86#.msi",
-            "hash": "4eb3e656aeb4f091cc159b4f019da29ce03680fd2d3bb495c5888c657bec76e0"
+            "hash": "771948089f7f37d14ba4db07d1349ec526404e61368060ea9df70b30be91c3c3"
+					
         }
     },
     "extract_dir": "Quicker",
