@@ -4,7 +4,6 @@
     "homepage": "https://www.ventoy.net",
     "license": "Apache-2.0",
     "url":"https://github.com/ventoy/Ventoy/releases/download/v1.0.08/ventoy-1.0.08-windows.zip",
-    "extract_dir": "Ventoy",
     "shortcuts": [
         [
             "Ventoy2Disk.exe",
