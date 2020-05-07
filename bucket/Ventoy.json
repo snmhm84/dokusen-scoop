@@ -6,7 +6,7 @@
     "url":"https://github.com/ventoy/Ventoy/releases/download/v1.0.08/ventoy-1.0.08-windows.zip",
     "shortcuts": [
         [
-            "Ventoy2Disk.exe",
+            "ventoy-$version/Ventoy2Disk.exe",
             "Ventoy"
         ]
     ],
