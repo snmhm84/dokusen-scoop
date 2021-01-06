@@ -14,12 +14,7 @@
         "Expand-7zipArchive \"$dir\\4.7z\" -ExtractDir 'office6' -Removal"
     ],
     "bin": "wpsoffice.exe",
-    "shortcuts": [
-        [
-            "wpsoffice.exe",
-            "WPS Office"
-        ]
-    ],
+    "shortcuts": [["wpsoffice.exe", "WPS Office"]],
     "checkver": {
         "url": "https://pc.wps.com",
         "regex": "WPSOffice_([\\d.]+)\\.exe"
