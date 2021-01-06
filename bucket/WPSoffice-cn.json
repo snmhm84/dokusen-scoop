@@ -7,7 +7,7 @@
         "url": "https://www.wps.com/eula"
     },
     "url": "https://pacakge.cache.wpscdn.cn/wps/download/W.P.S.10228.12012.2019.exe",
-    "hash": "85d2e249ae1acd9dc2c1c95034f2d9f8c910b67aa2efb4dc9c369c39831dbb62",
+    "hash": "a481e64c0e5c1d796ade658eb227cec1fa67270672a1a5cddf20494bcfef477a",
     "pre_install": [
         "Expand-7zipArchive \"$dir\\$fname\" -Switches '-t#'",
         "Remove-Item \"$dir\\*\" -Exclude '4.7z' -Recurse",
